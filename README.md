@@ -74,3 +74,8 @@ client.on("message", async message=>{
   }
 })
 ```
+# Support
+
+Join the discord for support and for other packages/discord bots:
+
+https://discord.gg/u9gFdnu
